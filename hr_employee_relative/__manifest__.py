@@ -18,7 +18,7 @@
     ],
     'external_dependencies': {
         'python': [
-            'dateutil',
+            'python-dateutil',
         ],
     },
     'data': [
